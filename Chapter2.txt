@@ -1,0 +1,1 @@
+I just leant how to open a text file in viso studio using the code command
